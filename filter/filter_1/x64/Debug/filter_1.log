@@ -1,0 +1,22 @@
+﻿  Building 'filter_1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\filter_1.inf
+  Stamping [Version] section with DriverVer=10/26/2020,20.44.57.258
+C:\Users\Asus\Downloads\filter_1\filter_1\filter_1\filter_1.inf : warning 1420: [DefaultInstall]-based INF cannot be processed as Primitive.
+C:\Users\Asus\Downloads\filter_1\filter_1\filter_1\filter_1.inf(25-25): warning 1421: Section [DefaultInstall] should have an architecture decoration.
+C:\Users\Asus\Downloads\filter_1\filter_1\filter_1\filter_1.inf(36-36): warning 1421: Section [DefaultUninstall] should have an architecture decoration.
+C:\Users\Asus\Downloads\filter_1\filter_1\filter_1\filter_1.inf(74-74): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  filter_1.vcxproj -> C:\Users\Asus\Downloads\filter_1\filter_1\x64\Debug\filter_1.sys
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Asus\Downloads\filter_1\filter_1\x64\Debug\filter_1\filter_1.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Asus\Downloads\filter_1\filter_1\x64\Debug\filter_1\filter_1.cat
+  

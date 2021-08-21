@@ -1,0 +1,3 @@
+﻿  user_app.cpp
+C:\Users\Asus\Downloads\user_app\user_app\user_app\user_app.cpp(50): warning C4715: get_sid: значение возвращается не при всех путях выполнения
+  user_app.vcxproj -> C:\Users\Asus\Downloads\user_app\user_app\Debug\user_app.exe
