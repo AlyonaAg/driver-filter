@@ -1,2 +1,2 @@
 # driver-filter
- A filter driver that intercepts access operations according to a discretionary access policy.
+Драйвер-фильтр, осуществляющий перехват операций доступа согласно дискреционной политике доступа.
